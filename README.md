@@ -35,8 +35,8 @@ The project has a significance of identifying the maximum drop-off stages in num
 
 
 ## Screenshoots
-https://drive.google.com/file/d/1na4HDIRQJ8Yz6wt2Lo0w3M2tNTLpZYOa/view?usp=sharing
-## ![Metrocar-project](https://github.com/derewor/Metrocar-Project/blob/main/Screenshot%202024-09-06%20at%2017.20.21.png)
+
+![Metrocar-project]("https://github.com/derewor/Metrocar-Project/blob/main/Screenshot%202024-09-06%20at%2017.20.21.png",width="100", height="200")
 
 ## Tools
 Google colab, 
