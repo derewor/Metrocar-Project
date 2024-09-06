@@ -36,7 +36,7 @@ The project has a significance of identifying the maximum drop-off stages in num
 
 ## Screenshoots
 
-![Metrocar-project](https://github.com/derewor/Metrocar-Project/blob/main/Screenshot%202024-09-06%20at%2017.20.21.png)
+![Metrocar-project](https://github.com/derewor/Metrocar-Project/blob/main/Ride%20Funnel.png)
 
 ## Tools
 Google colab, 
