@@ -58,10 +58,11 @@ To reproduce the code, run the googlecolab notebook file final_metrocar_project.
 
 
 ## Project Structure
-- Notebook/: A googlecolab notebook with an active code.
-- User_dash.py/: A code for an interactive dashboard for the user base funnel using DASH.
-- ride_dash_2.py/: A code for an interactive dash board at the ride level funnel.
-- A Metrocar Project pdf file that contains the major findings of the project for communication with stakeholders.
+- Data/: A directory containing the raw data.
+- Notebook/: A directory containing the googlecolab notebook with an active code.
+- Script/: A directory containing codes for an interactive dashboard for the user base and ride funnels using DASH.
+- Results:/ A funnel that shows the ride drop off at each stage.
+- Docs/: A Metrocar Project pdf file that contains the major findings of the project for communication with stakeholders.
 - README.md/: A file containing an overview of the project.
 ## Data Analysis and Results
 ### Libraries
