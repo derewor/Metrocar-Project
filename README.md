@@ -10,7 +10,7 @@
 
 ## Project Description
 ### Inrtoduction
-In any business, customer satisfaction and profit maximization are important aspects that ensure sustainability of a company. The Metro Car company in USA provide car services for customers. In this project, the ride and users success rates at different stages in the ride services using SQL, Pandas and other visualization tools.
+In any business, customer satisfaction and profit maximization are important aspects that ensure sustainability of a company. The Metro Car company in USA provide car services for customers. In this project, the ride and users success rates were examined at different stages in the ride services using SQL, Pandas and other visualization tools.
 - **User_level stages:** App_download > signup > ride_request > ride_accept > ride_completion > review
 - **ride_level stages:** ride_request > ride_accept > ride_completion > transaction > review 
 ### Project specific questions
